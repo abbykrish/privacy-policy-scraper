@@ -1,0 +1,661 @@
+                 DOWNLOAD  ABOUT  HELP   ADVERTISE   CAREERS  GRINDR FOR EQUALITY  INTO  BLOOP  UNLIMITED    Terms of Service  Privacy Policy  Third-Party Disclosure  Community Guidelines  Contact    FOLLOW US         © 2020 Grindr LLC             DOWNLOAD  ABOUT  HELP   ADVERTISE   CAREERS  GRINDR FOR EQUALITY  INTO  BLOOP  UNLIMITED    Terms of Service  Privacy Policy  Third-Party Disclosure  Community Guidelines  Contact    FOLLOW US         © 2020 Grindr LLC    CLOSE        DOWNLOAD      ABOUT     HELP     MENU              PRIVACY POLICY AND COOKIE POLICY     English   Español(Spain)  Español(Mexico/Latin America)  中文（简体）  中文（繁體）  Français  Deutsch  Nederlands  Indonesia  Italian  日本語  Português(Brazil)  Português(Portugal)  Polish  ไทย  Arabic            GRINDR PRIVACY AND COOKIE POLICY   Welcome to Grindr’s Privacy and Cookie Policy. This explains how Grindr LLC
+      (“Grindr” or “we” or “us”) uses, collects, processes, and shares personal
+      data, including information obtained through
+      the website   https://www.grindr.com   (“ Grindr Site ”), the
+      Grindr mobile applications (e.g., Grindr iOS, Grindr iOS Xtra, Grindr Android, Grindr Android Xtra, Grindr Lite,
+      Grindr Unlimited)
+      (“ Grindr App ”),
+      Gaymoji by Grindr (“ Gaymoji ”),
+      the website   https://grindrads.com   (“ Grindr Ads ”), the website   https://web.grindr.com   (“ Grindr Web Chat ”), the website   https://intomore.com   (“ INTO Site ”), or the website   https://grindrbloop.com   (“ Bloop Site ” and collectively with the Grindr Site, the Grindr App, Gaymoji, Grindr Ads, Grindr Web Chat, INTO Site,
+      as the “ Grindr Services ”).     As a global LGTBQ social networking application, the Grindr App allows you to share sensitive information about
+      yourself, including your sexual orientation and precise location, with us (and our necessary service
+      providers), and other Grindr users. Some of the services described are not available on all Grindr Services 
+      (e.g., Grindr Lite). This Privacy and Cookie Policy also explains how you can control your personal data. 
+      We recommend you read this Privacy and Cookie Policy, and our Terms and Conditions , 
+      carefully. You can also use the links below to jump to specific information concerning our privacy practices.   Note that Grindr LLC is a U.S.-based company. By using the Grindr Services, you are transmitting information to the United States. 
+    If you are a resident of another country, note that the United States may not afford the same privacy protections as 
+    your country of residence.     What Personal Data We Collect and Process.    Automated Decision-Making.    How We Share Your Personal Data.    Data Retention.    How We Protect Your Personal Data.    Your Choices.    Your Rights.    For EEA and/or U.K. Data Subjects.    For California Residents.    Cookie Information.    Additional Information.        WHAT PERSONAL DATA WE COLLECT AND PROCESS.     When you use the Grindr Services, we collect personal data about you. “Personal Data” means any
+      information that allows someone to identify you. While the following provides examples of the Personal Data that Grindr
+      collects, note that not all Grindr Services collect all of the data listed below.     PERSONAL DATA YOU PROVIDE      Account Credentials.  In order to use the Grindr Services, you are required
+        to provide an Account Authentication Mechanism (email, phone number, or a third-party social log-in like
+        Facebook or Google). When creating an account, Grindr stores a hashed version of your Account Authentication Mechanism
+        for authentication and/or verification purposes. We use a third-party service provider, Sinch, for verification and authentication. 
+        You can review  Sinch’s privacy policy here .    Community Profile Information.  When you create a Grindr account, you choose to provide us Personal Data about yourself for your public Grindr
+        profile. For example, in the Grindr App, you may voluntarily provide your Personal Data, such as your photo,
+        display name, relationship status, ethnicity, age or date of birth, gender, pronouns, email address, height,
+        weight, body type, position, social network link, “Looking For,” “About Me,” “Favorites,” “Blocks,” “Tribes,”
+        “Meet at,” “Accept NSFW Pics,” and any other information that you add to your profile on the Grindr App(“Profile
+        Information”). You also have the option to voluntarily provide health characteristics, such as your HIV status or 
+        Last Tested Date discussed below. You should carefully consider what Personal Data to
+        include in your Community Profile, and you can review and change that information at any time
+        by accessing the “Edit Profile” section of the App.    HIV Status/Last Tested Date.  At the recommendation of HIV prevention experts and the community of Grindr users, we give you
+        the option of publishing your health characteristics, such as your HIV status and/or Last Tested Date, in your
+        public Grindr community profile. If you choose to include this information in your profile, it
+        will become public to other users of the Grindr App. As a result, you should carefully consider whether you
+        want to disclose your HIV status and/or Last Tested Date. You can review and change your HIV Status/Last Tested
+        Date information at any time by accessing the “Edit Profile” section of the App. Grindr does not
+        use HIV status for advertising purposes and does not share this information with advertisers.  Grindr does use 
+        your last tested date to send you periodic reminders to get tested. In order to provide you the Grindr Services, 
+        Grindr shares this information only with necessary service providers such as companies that host data on our behalf (Amazon Web Services), provide engineering 
+        support (Grindr Taiwan Technology), or help in processing data access requests you initiate (PartnerHero).    Feedback/Support.  If you provide us feedback or contact customer support, we collect your name and e-mail address
+        and possibly other Personal Data (e.g. IP address), as well as any other content that you send to us in order
+        to reply and address any issue. If you contact customer support, we also collect and retain certain technical
+        diagnostic data, such as your phone model. We may keep records of our communication with you, including any
+        complaints we receive from you about other users (and from other users about you).    Mailing List.  When you sign up for the Grindr Services, we collect your email address to send you Grindr news, Grindr
+        Services updates, the latest information on products and services, and third-party offers with your consent.    Surveys.  When you participate in a survey, you provide us additional Personal Data through the survey. If
+        the survey is provided by a third-party service provider, the third party’s privacy policy applies to the
+        collection, use, and disclosure of your information. Unless noted otherwise, we use Survey Monkey for surveys.
+        You can view Survey Monkey’s privacy policy here .    Partner Promotion.  We collect Personal Data if you provide such data in the context of a Partner
+        Promotion (described below).    Photos, Videos and Audio.  If you upload a photo or video, or send an audio message, while using the Grindr Services, you will be required to permit Grindr to access your 
+        camera, photo gallery, and microphone in which case Grindr will have access to the photos and videos stored in your photo gallery.    Location and Distance Information.  When you use the Grindr App, we collect your precise location (e.g. your latitude and longitude) ( "Location" )
+        to determine your distance in feet or meters from other users ( “Distance Information” ).
+        Please see Data Retention section for information on storage of this information. Should you choose not to allow 
+        the Grindr App to access your Location, certain features (such as displaying nearby user profiles or features 
+        that include Live Location Sharing) of the Grindr Services will not function properly. You may also revoke this 
+        permission and disable the location services on your device. You can do so on an iPhone by going to Settings, 
+        Privacy, Location Services, Grindr; and on Android, by going to Settings, Location, Grindr, Permissions, Location.    Messages.  When you send a message using the Grindr Services (which could include content such as photos, location, audio, 
+        video, emoji, etc.) to other users of the Grindr Services, we may collect Personal Data that includes the content 
+        of the message.    User Activity.  We collect certain Personal Data that is generated through your use of the Grindr Services. This Personal Data
+        includes information about whose user profiles you have viewed, products and services you have purchased
+        through the Grindr Services, how you’ve interacted with the App, and how you communicate with other users.     PERSONAL DATA WE RECEIVE FROM YOUR DEVICE WHEN YOU USE GRINDR SERVICES      Hardware and Software Information.  We collect certain hardware and software information about you and your device such as device make, device
+        model, carrier, data connection type, browser type, operating system, IP address, domain name, date/time stamp
+        for your visit, app crashes, advertising IDs (e.g. Google’s ADID and Apple’s IDFA) which can be reset by
+        going to your device’s setting). All of the foregoing collectively known as “Hardware and Software Information” .    Sensor Information.  We may collect sensor information such as barometric pressure, accelerometer measurements, gyroscope measurements, 
+        device orientation, magnetic field measurements, direction of travel, motion activity (e.g.,walking) 
+        or other similar measurements (“Sensor Information”) in order to serve you certain advertisements.    Cookies, Log Files, and Other Tracking Technologies.  We use cookies and URL information to gather information regarding the date and time of your visit and your
+        searches. If you choose to disable cookies, some features of the Grindr Services may not work as expected. 
+        For more Information regarding cookies and other tracking technologies, please see Cookie Information below .      PERSONAL DATA WE RECEIVE FROM THIRD PARTIES      Purchase Information.  When you choose to make a purchase through the Grindr Services, you submit Personal Data such as your name,
+        payment card information, billing information, address, telephone number, and email address to one of our
+        third-party payment processors. Purchases cannot be made through Grindr Lite at this time.   Grindr does not receive or process payment card information directly; however, our third-party service
+        providers may provide certain information to us (e.g., your name, phone number, partial payment card number,
+        and email address). We use Stripe or Google Play for purchases on Android devices, Apple for purchases on Apple
+        devices, and Stripe for purchases on Grindr Web Chat. Please review the Stripe , Google , and Apple privacy policies
+        to better understand their practices.   Grindr utilizes a Grindr-generated device identifier which enables us to track your in-app Grindr purchases over time. 
+        This device identifier is not used for third-party advertising and is used by Grindr to deliver you the Grindr Services 
+        including to ensure you receive effective and relevant marketing campaigns from Grindr.    Consent Information.  For EEA/UK and California users, Grindr utilizes OneTrust as its consent management platform to provide you with control over 
+        the data you permit us to share with third-party advertisers and analytics partners. As a result, Grindr receives your consent 
+        preferences from OneTrust (“Consent Preferences”). You can read OneTrust’s privacy policy here .    Third-Party Platforms.  If you use or connect to the Grindr Services or download the Grindr Services through a third-party platform, such
+        as Facebook , Google , 
+        or WeChat ,
+        you allow us to access and/or collect certain information(e.g., date of birth, account identifier, etc.) from your 
+        third-party profile/account (“Third-Party Data”). We may also access information contained in tracking technology 
+        placed on your device by the third-party platform. Remember, when you elect to create a Grindr account via a third-party, you are
+        also giving them Personal Data, so we recommend you read their privacy policies which control how
+        they use your information and may also provide additional data management tools you can use.    Third-Party Tracking.  Our advertisers and certain service providers also use their own cookies or other tracking technologies (such
+        as software development kits or “SDKs”) which may collect information about you within the Grindr Services. We
+        prohibit them from tracking or monitoring health data (e.g., HIV status) or certain sexual group identification
+        data (e.g., Tribe). They will, however, receive the advertising ID associated with your device
+        and know that the ID was identified on Grindr. You can find more information about third-party tracking technologies in our Cookie Policy section.   Some Personal Data about your use of the Grindr Services and certain third-party services may be collected
+        using tracking technologies across time and services, and used by us and third parties for purposes such as to
+        associate different devices you use, and deliver relevant ads and/or other content to you on the Grindr
+        Services and certain third-party services. Please see Your Choices section of this privacy policy to understand 
+        how you limit third-party tracking.      AUTOMATED DECISION-MAKING.     Your safety and security are important to us. As such, we use automated decision-making as a part of our
+      platform moderation efforts (for example, removing spammers) including to assist in our efforts to prevent 
+      and respond to illegal, malicious, and unauthorized activity. If you are notified that your
+      account has been banned and you believe this is an error, please email a Customer Support representative at support@grindr.com to seek an appeal.      HOW WE SHARE YOUR PERSONAL DATA.      Distance Information.  The Grindr App is designed to allow users to share Distance Information. 
+        Distance Information is public and indicates to other users of the Grindr App the distance you are in feet or meters from them.
+        Your Distance Information will be displayed in your profile in those users' search results should you elect to display your relative distance.
+        Grindr App users can use the explore feature in the Grindr App to search for other users in a geographic location outside of their immediate location. 
+        Sophisticated users who use the Grindr App in an unauthorized manner, or other users who change their location while you remain in the same location,
+        may use Distance Information to determine your exact location and may be able to determine your identity. 
+        You may choose to hide your Distance Information; however, the Grindr App will continue to sort and display your profile based on your relative distance from other users.
+        Accordingly, even if you choose to hide your Distance Information, others may nevertheless be able to determine your Location. 
+        You can disable location services on an iPhone by going to Settings, Privacy, Location Services, Grindr and on Android, by going to Settings, Location, Grindr, Permissions, Location.    Third-Party Tracking Companies.  When you sign up for the Grindr Services, we share a portion of your Profile
+        Information, Location Information, and demographic information with analytics partners. These third parties
+        may also collect information directly from you as described in this Privacy Policy (e.g., IDFA/IDFV, device information)
+        through tracking technologies such as cookies or SDKs. Our analytics partners are aware that such data is being
+        transmitted from Grindr. The privacy policies of these third-party companies apply to their collection,
+        use and disclosure of your Personal Data. For example, one of our partners is Google Analytics, whose privacy policy can be
+        found here . Google Analytics collects
+        information and reports website trends without identifying individual visitors. See Your
+          Choices for information on your ability to opt-out of Google
+        Analytics. Another partner, Braze, provides us with the technology to allow us to collect certain information
+        and reports on usage trends without identifying individual visitors (e.g., daily active users, monthly active
+        users, time in app, etc.) and tools which allow us to communicate with users (via inbox messages) within the
+        Grindr App or out of app (e.g. via push notifications or email).
+        Note that we do not share information about your Tribe or your HIV status with third-party analytics companies.
+        You can also access more detailed information about the third parties that we disclose information to here . For California consumers, by 
+        accepting this Privacy and Cookie Policy, and by clicking that you “accept sharing” when creating a Grindr account, you are directing us to disclose
+        the information described in this paragraph to third-party analytics companies. You can opt-out of this sharing by changing your preferences
+        in the Consent Preference Center available within the Grindr App .    Third-Party Advertising Companies.  We share the Identifier for Vendor
+        associated with your device (“IDFV”), your device's advertising identifier (“IDFA”), a portion of your Profile Information, and 
+        Location Information, with our advertising partners. These third
+        parties may also collect information directly from you as described in this Privacy and Cookie Policy through
+        tracking technologies such as cookies or SDKs. Our advertising partners are
+        aware that such data is being transmitted from Grindr. The privacy policies of these third-party companies apply to their
+        collection, use and disclosure of your Personal Data. One of our main advertising partners is MoPub that helps
+        Grindr deliver personalized advertising. You can follow the links to MoPub’s privacy notice and partner page . See Your
+          Choices for information on your ability to opt-out of
+        interest-based advertising. Note that we do not share information about
+        your Tribe, your HIV status, or your Last Tested Date, with any advertising companies. For more information on
+        third-party tracking technology, please visit Cookie Information . You can also access more detailed
+        information about the third parties that we disclose information to here . Note 
+        that for California consumers, if you accept sharing with our advertising partners you are directing us to disclose the information
+        described in this paragraph to third-party advertising companies. You can limit third parties’ uses of your Personal Data by going to the “Consent
+        Preference Center” within the “Settings” menu within the App.     Third-Party Service Providers.  We share your Personal Data with third-party service providers to: provide you with the Grindr Services;
+        conduct quality assurance testing; monitor activity on the Grindr Services; provide technical support; and/or
+        to provide other services to Grindr. Except as otherwise stated in this Privacy Policy, these third-party
+        service providers are required by contract not to use your Personal Data other than in connection with the services
+        requested by Grindr.  The only service providers with access to HIV and Last Tested Date information are Amazon 
+        Web Services, our data infrastructure provider, Grindr Taiwan Technology Ltd., a provider of essential engineering services, 
+        and PartnerHero, a company that helps process data access requests. You can also access more detailed information about the 
+        third parties that we disclose information to here .    Partner Promotion.  From time-to-time we may offer contests, sweepstakes, or other promotions with third-party partners. If you
+        decide to enter a contest, sweepstake, or promotion that is sponsored by a third-party partner the
+        information that you provide will be shared with us and with them. Their use of your information is not
+        governed by this Privacy Policy    Business Transactions.  If another company acquires, or plans to acquire our company, business, or assets, that company will possess the Personal Data
+        collected by us and will assume the rights and obligations regarding your Personal Data as described in this
+        Privacy and Cookie Policy.    Other Disclosures With Your Consent.  We may explicitly ask if you would like us to share your information with other third parties who may not be 
+        described elsewhere in this policy. For example, we may ask you if you would like to back-up your account, or
+        the information stored within your local device, to a third-party service such as Apple or Google
+        cloud backup.    Legal Obligations.  Grindr may preserve or disclose Personal Data in response to a lawful legal request, including: subpoenas,
+        warrants, or court orders; in connection with any legal process; to comply with relevant laws; to establish
+        or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent,
+        or take action regarding illegal activities, suspected fraud, safety of person or property, or a violation of our
+        policies; or as otherwise required by law.       YOU SHARE YOUR PERSONAL DATA IN THE FOLLOWING SITUATIONS:     Community Profiles.  The Grindr App is a social networking platform that is designed to allow users to connect and share
+        information. When you use the Grindr Services, your Community Profile Information is public, and other users of
+        the Grindr App can see your Profile Information and other Personal Data (including sensitive personal data)
+        posted by you. For example, other users can search for you, search for your profile characteristics, see if
+        you’ve viewed their profile, or see you listed as being within their vicinity. Do not include information in
+        your profile that you want to keep private. For example, if you do not want your HIV status to be known, you
+        should not include that information in your Grindr profile. While the Grindr App permits you to make certain
+        items (e.g., Profile Information, preferences, or other information) non-public, sophisticated users who use
+        the Grindr App in an unauthorized manner may nevertheless be able to obtain this information and may be able
+        to determine your identity.    Messages.  You may choose to send messages, including photos, audio, location, emoji or videos, to other users. If you send
+        messages, you will be providing Grindr with your Personal Data as well as the user who views your message.
+        Please don't send messages or share content that you wouldn't want someone to save or share as users may save
+        content or copy it outside the Grindr Services. Chat messages are stored locally on devices. Therefore,
+        if you choose to delete your account, messages you sent to another user may still be available on that 
+        user’s device. Do not share your Account Credentials or payment information via chat (or any third-party
+        platforms).    Live Location Sharing.  If you elect to utilize the “Live Location Sharing” feature, you share your
+        specific location with another user for a predetermined period of time, as well as with Grindr. While the Live 
+        Location Sharing is active, your Location is continuously shared in the background. You
+        can revoke your consent to this sharing at any time by utilizing the in-App “stop sharing” button.    Social Features.  The Grindr Services include features that are designed to permit interactions that you initiate between the
+        Grindr Services and third-party websites or services, including third-party social networks (collectively "Social Features" ). For example, you may be able to "like" or "share" content from
+        the Grindr Services on other websites or services, such as Facebook, Twitter, Instagram, YouTube and
+        LinkedIn. If you use Social Features on the Grindr Services, both Grindr and the third-party services that
+        operate those Social Features may have access to certain Personal Data about you and your use of both the
+        Grindr Services and theirs. The Personal Data collected and stored by
+        third parties remains subject to those third parties' privacy practices, including whether the third parties
+        continue to share Personal Data with us.   You agree and consent that the information and data outlined above may be shared with third parties as
+        described throughout this document.       DATA RETENTION.    We retain your Personal Data for no longer than is necessary to fulfill the
+        purposes for which the information was collected or as otherwise permitted
+        or required by applicable law or pursuant to Grindr Terms of Service or
+        Grindr Community Guidelines. Generally, Grindr does not maintain user chat
+        messages for longer than 24 hours once the message has been delivered to
+        the recipient.    If you delete your account your Profile Information and Location Information
+      associated with your account will be removed from our systems within seven
+      (7) days, unless retention is required for a legal purpose. Chat images, user
+      activity, and other Personal Data outlined above is deleted within 120 days of
+      an account deletion. With respect to accounts that have been banned for
+      violations of the Grindr Terms of Service and/or Community Guidelines,
+      Grindr retains the hashed version of your Account Authentication
+      Mechanism, a Grindr-generated device identifier, and limited log information
+      associated with the reason for the ban. In some circumstances, Grindr may
+      retain chat messages used for reporting violative behavior resulting in an
+      account’s ban. Grindr may also retain your Personal Data if required to do so
+      pursuant to a valid legal request. For more information, please see Third Party Disclosures .      HOW WE PROTECT YOUR PERSONAL DATA.      At Grindr, we take the privacy and security of your Personal Data seriously. We have a dedicated data security
+      team that actively works to monitor the integrity and safety of the Grindr Services. We have strict policies in
+      place to help protect Personal Data. We consistently strive to improve our defenses in the
+      ongoing battle against bad actors. As such, we do not disclose any specific security tools or techniques we use
+      so that we can better protect your Personal Data as we do not want to unwittingly educate those with malicious
+      intent. That said, no method of transmission over the Internet, or method of electronic storage, is fully secure,
+      and Grindr cannot guarantee the security of your Personal Data. In the event that we are required by law to
+      inform you of any unauthorized access to your Personal Data, we may notify you electronically or in writing in 
+      accordance with applicable law.      YOUR CHOICES.    You can make the following choices regarding your Personal Data:     Community Profile Information.  You choose to provide us Personal Data about yourself for your public Grindr
+        community profile. You can review and change your Community Profile Information at any time by accessing the
+        “Edit Profile” section of the App.    Promotional Emails.  You may choose during the registration process to provide us with your email address for the purpose of
+        allowing us to send free newsletters, surveys, offers, and other promotional materials related to Grindr and/or
+        the Grindr Services, as well as targeted offers from third parties. You can stop receiving promotional emails
+        by following the unsubscribe instructions in e-mails that you receive. If you unsubscribe from receiving such
+        promotional emails, we may still send you service-related communications, and our applications may deliver you in-app messages.    Behavioral Advertising On Websites.  Our websites may allow for third-party behavioral advertising. This means that a third party may use technology
+        (e.g., a cookie) to collect information about your use of our websites so that they can provide advertising
+        about products and services tailored to your interests. For more information on third-party tracking
+        technology, please visit Cookie Information below . Advertising may appear either
+        on our website, or on other websites not operated by Grindr. If you do not want third parties to tailor the
+        advertising that you see, you can opt-out from some third party behavioral advertising at the Digital Advertising Alliance in the US , the Digital Advertising Alliance of Canada in Canada , or
+        the European Digital Advertising
+            Alliance in Europe . Please note that opting-out of behavioral advertising does not mean that you
+        will not receive advertising while using the Grindr Services. It will, however, exclude you from interest-based
+        advertising conducted through participating networks, as provided by their policies and choice mechanisms. We
+        do not currently recognize automated browser signals regarding tracking mechanisms, which may include “Do Not
+        Track” instructions.    Behavioral Advertising Within The Grindr App.  Please note that opting-out of behavioral advertising does not mean that you will not receive advertising
+        while using the free version of Grindr Services. It will, however, exclude you
+        from interest-based advertising conducted through participating networks,
+        as provided by the applicable choice mechanisms. For users in the EEA/UK,
+        Grindr participates in the IAB Europe Transparency & Consent Framework
+        and complies with its specifications and policies. OneTrust operates the
+        consent management platform (CMP ID # 28) we utilize. Before creating your
+        Grindr account, you will be presented with a consent preference screen
+        where you can control if your data can be used by our advertising partners.
+        You can also access the Consent Preference Center after creating your
+        Grindr account from within the settings menu of the Grindr App at any time.
+        For users outside of the EEA/UK and California, you can opt-out of behavioral targeting on iOS devices by going
+        into Settings > Privacy > Advertising on your device or visiting Apple’s website for more information. To
+        opt out on an Android device, open the “Google Settings,” click on “Ads” and enable “Opt out of interest based
+        ads.”    Third-Party Tracking.  You may opt-out of Google Analytics' collection and use of your Personal Data by following the instructions here to download an opt-out browser add-on.       YOUR RIGHTS.    Some jurisdictions may give you the right to request that we:      Provide you with information about our processing of your Personal Data and give you access to your Personal
+        Data.    Update or correct inaccuracies in your Personal Data.    Delete your Personal Data.    Transfer a machine-readable copy of your Personal Data to you or a third party of your choice.    Restrict the processing of your Personal Data.    Withdraw consent that you have previously given us. You may make this request at any time. Revocation
+        of your consent will only apply to future processing activities and will not apply retroactively.    Where your jurisdiction’s law allows, object reliance on our legitimate interests as the basis for processing of your Personal Data.      While we honor the above requests if required to do so by law, there are situations in which we may not be able to agree to a 
+      particular request. For example, it is not possible for us to delete your Personal Data if we are required by law 
+      to keep it (e.g., for tax and accounting purposes), or if we need it to perform a contract with you. Similarly, access to your
+      Personal Data may be refused if making the information available would reveal Personal Data about another person
+      or if we are legally prevented from disclosing such information. If we decline your request, we will tell you
+      why, subject to legal restrictions.     Please note that due to Grindr’s retention practices, some historical data may not be available as it is no
+      longer held in Grindr’s systems. Please see "Data Retention" above. You can submit a request by email to privacy@grindr.com or our postal address provided below. Where necessary, we may request specific information from you to verify your identity prior to 
+      processing your request. If you invoke your rights as listed in this section, Grindr utilizes third parties like PartnerHero, 
+      for Customer Support and ZenDesk as our Customer Support ticketing platform to help fulfill your requests to exercise your rights under this document. 
+      You can read their privacy policies by clicking here and here , respectively.     If you would like to submit a complaint about our use of your Personal Data or our response to your requests
+      regarding your Personal Data, you may contact us at privacy@grindr.com .      FOR EEA/U.K. DATA SUBJECTS.    For users subject to the data privacy laws of the EEA and the U.K. the table
+        below provides an overview of the legal basis on which we process your data.
+        Where the legal basis is your consent, you can withdraw your consent at any
+        time (typically by controlling what data you provide in your Grindr Community
+        Profile). Where the legal basis is legitimate interests, you have a right to object to our
+        use of your data. We explain in the relevant sections in this Privacy Policy how you can
+        withdraw consent or opt-out of certain data uses. Note that sometimes we ask
+        your permission concerning our use of data in order to give you control over
+        preferences, but the legal basis is not "consent."         Processing purpose  Personal Data Includes  Lawful Basis      Provide you with the
+                services and products
+                associated with a
+                Grindr account,
+                including without
+                limitation creating and
+                managing your Grindr
+                account and Grindr
+                user profile.     Account Credentials;
+              Profile Information;
+              Location and Distance
+              Information; Hardware
+              and Software
+              Information; and Cookies,
+              Log Files and Other
+              Tracking Technologies.  Additional Personal Data
+            we receive about you,
+            including: Third-Party
+            Data and Consent
+            Preferences.    Performance of contract  Manifestly made public by
+            the data subject (with
+            regard to sensitive
+            information)       Display your profile and your Grindr activity to other users and enable you to see nearby user
+              profiles.     Location and Distance
+              Information, Profile
+              Information; User
+              Activity; Cookies, Log
+              Files and Other Tracking
+              Technologies.    Performance of contract   Manifestly made public by
+            the data subject (with
+            regard to sensitive
+            information)      Facilitate messages between users of the Grindr Services, which may include photos (including explicit
+              photos), location, audio or video.     Hardware: Software
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity.    Performance of contract  Consent (with regard to
+              sensitive information)       Display your self-reported health information on your user profile and provide you with testing
+              reminders.     Hardware and Software
+              Information, self-reported HIV status and
+              Last Tested Date.    Consent  Task carried out in public interest  Manifestly made public by the data subject       Communicate with you through the App to provide updates, service-related notifications, news, and
+              promotions.     Profile Information;
+              Hardware and Software
+              Information; Location and
+              Distance Information;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies; Feedback
+              and Support; Mailing List;
+              Partner Promotions.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information.    Performance of contract  Legitimate interest of
+            Grindr to discuss its
+            products and services (in
+            relation to promotions)       Respond to user inquiries and complaints and to provide you customer support.     Account Credentials;
+              Hardware and Software
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies; Feedback
+              and Support; Surveys.  Additional Personal Data
+              that we received about
+              you, including: Payment
+              Information.    Performance of contract  Legitimate interests – it is
+                  in our legitimate interests
+                  to respond to your
+                  inquiries in order to
+                  provide you with the
+                  assistance you expect
+                  when raising a support
+                  query.       Develop, improve and deliver Grindr Services and products.     Account Credentials;
+              Profile Information;
+              Hardware and Software
+              Information; User
+              Activity; Cookies, Log
+              Files and Other Tracking
+              Technologies; Feedback
+              and Support; Surveys.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information; User
+              Activity.    Legitimate interests– it is
+              in our legitimate interests
+              to understand the ways in
+              which our users engage
+              with the Grindr Services
+              and other third-party tools/applications so that
+              we can further protect
+              Grindr users, improve the
+              current Grindr Services as
+              well as develop new
+              services and products for
+              future use.       Process your purchases and transactions.     Hardware and Software
+              Information; Cookies, Log
+              Files and Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information.    Performance of contract       Conduct Partner promotions.     Profile Information;
+              Authentication
+              Information; Location and
+              Distance Information;
+              Partner Promotions.    Legitimate Interests – it is
+              in our legitimate interests
+              to provide you with partner
+              promotions in which you
+              may be interested.       Access and collect your Personal Data from third-party platforms.     Third-Party Platform
+              Data; Cookies, Log Files
+              and Other Tracking
+              Technologies.  Additional Personal Data
+              we receive about you,
+              including: Third-Party
+              Platform Data, Hardware
+              and Software Information
+              Payment Information, and
+              Consent Preferences    Performance of contract       Share your Personal Data with our service providers in order to provide you with the Grindr Services.     Hardware and Software
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; Cookies, Log
+              Files and Other Tracking
+              Technologies.    Performance of contract       Share your Personal Data with analytics partners to improve our services, marketing, user relationships
+              and experiences.     Hardware and Software
+              Information; Profile
+              Information (excluding
+              HIV status, Last Tested
+              Date and Tribe); Location
+              and Distance Information;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data we receive
+              about you, including: Consent Preferences.    Consent (in those cases
+              where required by law)  Legitimate interests– it is
+              in our legitimate interests
+              to analyze the way in which
+              users are accessing and
+              using the Grindr Services
+              so that we can further
+              improve them.       Allow third-party advertisers to use tracking technologies on the Grindr Services.     Hardware and Software
+              Information; Cookies, Log
+              Files and Other Tracking
+              Technologies.  Additional Personal Data we receive
+              about you, including: Consent Preferences.    Consent       Provide safety and security features (authentication, anti-spam, fraud protection and quality and abuse
+              prevention).     Account Credentials;
+              Hardware and Software
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information and User
+              Activity.    Legitimate interests – it is
+              in our legitimate interests
+              to ensure that Grindr
+              accounts are not
+              fraudulent in order to
+              safeguard users and
+              provide an authentic and
+              safe platform.  Protect the vital interests
+              of data subjects or other
+              natural persons.       Comply with valid legal requests.     Account Credentials;
+              Hardware and Software
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information.    Comply with legal
+              obligations (in response to
+              requests from EU member
+              states)  The legitimate interest of
+              Grindr to comply with the
+              laws to which it is subject
+              outside of the EEA       Address legal issues and disputes.     Account Credentials;
+              Hardware and Software;
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Information and Cookies,
+              Log Files and Other
+              Tracking Technologies.  Additional Personal Data
+              we receive about you,
+              including: Payment
+              Information.    Comply with legal
+              obligations (if required by
+              an EU member state)  The legitimate interest of
+              Grindr to exercise or
+              defend legal claims  Establishing, exercising,
+              or defending legal claims       Investigate, prevent or respond to suspected illegal activities or fraud.     Account Credentials;
+              Hardware and Software
+              Information, Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information and User
+              Activity.    Legitimate interests - it is
+              in our legitimate interests
+              to prevent and respond to
+              unauthorized behavior
+              within the Grindr Services
+              and to maintain the safety
+              and authenticity of the
+              Grindr Services.       Administer and protect our services (troubleshooting, data analysis, testing, system maintenance,
+              support, reporting and hosting of data).     Account Credentials;
+              Hardware and Software
+              Information; Profile
+              Information; Location and
+              Distance Information;
+              Messages; Photos and
+              Videos; User Activity;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information and User
+              Activity.    Legitimate interests – it is
+              in our legitimate interests
+              to ensure the stability of
+              the Grindr Services and
+              are able to use analytical
+              data to troubleshoot
+              problems.       Access your camera,
+                photo roll, and
+                microphone to allow
+                you to include photos in
+                your Community Profile
+                and photos, audio, and
+                video messages in your
+                private and group
+                messages.     Profile Information;
+              Messages; Photos and
+              Videos.    Consent       Facilitate the sharing of live location between you and other users.     Location and Distance
+              Information; Profile
+              Information; Messages.    Consent       Share your Personal Data with our advertising partners.     Hardware and Software
+              Information; Sensor
+              Information; Profile
+              Information (excluding
+              HIV Status and Last
+              Tested Date and Tribe);
+              Location and Distance
+              Information; Cookies; Log
+              Files and Other Tracking
+              Technologies.  Additional Personal Data we receive about you,
+              including: Third-Party
+              Tracking Technologies
+              and Consent Preferences.    Consent       Provide or show
+                advertising on the
+                Grindr Services based
+                on the Personal Data
+                you provide or that we
+                collect through the
+                Grindr Services.     Hardware and Software
+              Information; Sensor
+              Information; Profile
+              Information (excluding
+              HIV Status, Last Tested
+              Date, and Tribe); Location
+              and Distance Information;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies.  Additional Personal Data
+              that we receive about you,
+              including: Payment
+              Information Consent
+              Preferences, and User
+              Activity.    Consent       Provide you with services and products associated with Grindr Web Chat, including syncing your Grindr
+              account with your web client.     Location and Distance
+              Information; Profile
+              Information; Messages;
+              Photos and Videos;
+              Cookies, Log Files and
+              Other Tracking
+              Technologies; Payment
+              Information.    Consent  Performance of contract
+              (related to the Web Chat
+              service)       Create and/or administer surveys and conduct research of users’ behavior to improve the Grindr
+              Services.     Profile Information;
+              Location and Distance
+              Information; Hardware
+              and Software
+              Information; User
+              Activity; Cookies, Log
+              Files and Other Tracking
+              Technologies; Feedback
+              and Support; Surveys;
+              Payment Information.    Consent       For General Data Protection Regulation (EU) 2016/679 (“GDPR”)-related inquiries, you may contact Kelly Peterson
+        Miranda, Grindr’s Data Protection Officer: DPO@grindr.com .      If you are based in the EEA, you can contact our EEA Representative (for
+        GDPR-related inquiries only), The DPR Group, using the following details:     By Email: DPO@grindr.com     By Visiting www.dpr.eu.com/grindr     By Post: The DPR Group, The Cube, Monahan Road, Cork, T12H1XY,
+        Republic of Ireland     The DPR group has locations in each of the 27 EU member countries. For additional DPR Group postal
+      addresses, please contact privacy@grindr.com .    If you are based in the U.K., the DPR Group also serves as our U.K.
+      representative and can be contacted (for GDPR-related inquiries only) using
+      the same methods as above or by post at: The DPR Group, BPM 335368, 372
+      Old Street, EC1V 9AU, London, United Kingdom.    EEA individuals also have the right to lodge a complaint with a supervisory authority in the EEA Country where
+        they reside or work, or where the alleged infringement of the General Data Protection Regulation (EU) 2016/679
+        (“GDPR”) took place. You can find information about your data protection regulator here .
+        Swiss individuals also have the right to lodge a complaint with the Swiss Federal Data Protection and Information
+        Commissioner. For complaints from EEA data subjects or Swiss individuals that cannot be resolved with Grindr
+        directly, Grindr will cooperate with EEA and Swiss authorities and will implement the advice they provide with
+        respect to such unresolved complaints.    For Grindr Lite users or those communicating with Grindr Lite users: Grindr
+        may utilize an Amazon Web Services relay server based in Mumbai, India.
+        The relay server does not typically store user data but facilitates the
+        transmission of user data to the United States.      FOR CALIFORNIA RESIDENTS.      California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations must
+      disclose what categories of information are “collected,” “sold,” or transferred for an organization’s business
+      purpose” as those terms are defined under California law. Note that Grindr does not necessarily collect all
+      categories of information about you. For example, while we may collect government issued identification as part
+      of authenticating some users that make access requests, we do not collect such information from the majority
+      of Grindr users who are California residents. Grindr may collect and transfer for business purposes the following
+      categories of personal information from Grindr’s California users: Audio, Electronic, Visual, Thermal, Olfactory,
+      or Similar
+      Information; Characteristics of protected classifications; Commercial information; credit card information; debit
+      card number; Driver’s License Number; Electronic network activity; Email address;
+      Geolocation data; Identifiers (e.g., display name); Online identifiers (e.g., IP address); Passport number;
+      Physical characteristics; Postal address; Signature; Social Security Number; Telephone number; Transaction
+      Information. See the “What Personal Data We Collect and Process” section of this Privacy Policy. If you would like more information concerning the
+      categories of Personal Data (if any) we share with third parties or affiliates for those parties to use for
+      direct marketing, please submit a written request to us using the Contact Information below. For California consumers, by accepting this Privacy and Cookie Policy, and by clicking that you “accept sharing” when creating a Grindr account,
+        you are directing us to disclose the information described in this paragraph to third-party advertising
+        companies and therefore Grindr does not sell your Personal Data.  If you decide that you no longer want advertising partners
+        to use your information for their own purposes, or retain it after providing
+        services to us, you can (i) click the “Consent Preference Center” from the
+        “Settings” menu in the Grindr App or (ii) click “Support” from within the
+        settings menu in the Grindr App.        COOKIE INFORMATION.       What are cookies:       “Cookies” are small text files placed on your device or browser when you visit a website or otherwise interact
+      with an online service. Cookies collect and store information, which is sent back to our servers or those of
+      third parties. To learn more about cookies, we encourage you to visit www.allaboutcookies.org .        First-party and third-party cookies. Grindr websites utilize first-party
+        and third-party cookies. First-party cookies are cookies placed on your
+        device directly by us (e.g., to adapt our website to your browser’s
+        language preferences and to better understand your use of the Grindr
+        Services). Third-party cookies are placed on your device by our partners
+        and service providers (e.g., to gather performance data or to enable you
+        log on using a third-party social media platform).     Session and persistent cookies. All cookies have an expiration date.
+        There are session cookies and persistent cookies. We use session cookies
+        for many reasons, including to learn more about your use of the Grindr
+        Services during a single browsing session so we can continue to ensure
+        the Grindr Services are effective and efficient. We typically use persistent
+        cookies to help expedite your use of the Grindr Services and for
+        performance evaluation purposes.     Other tracking technologies besides cookies. Grindr also utilizes tracking technologies such as web beacons (also
+        known as pixel tags or clear gifs), tracking URLs or software development
+        kits (“SDKs) for similar purposes as cookies. Web beacons are tiny
+        graphics files that contain a unique identifier that enable us to recognize
+        when a person visits our Services. Tracking URLs are custom generated
+        links that help us understand where the traffic to our webpages comes
+        from. SDKs are pieces of code includes within apps which function like
+        cookies and web beacons.        How does Grindr use cookies?       As described in greater detail below, we may use cookies and other tracking
+        technologies for the following purposes:       To collect statistical data on our users’ interactions with the Grindr Services;    To conduct essential functions, such as identifying trusted web traffic;    To integrate with third-party social media platforms;    To track your behaviors and browsing activities over time across multiple websites or other platforms;
+        and    To serve you with interest-based or targeted advertising on other websites.       We may link the information collected by cookies with other information we
+        obtain from you pursuant to this Privacy Policy and may use the combined
+        information in ways as outlined herein. Similarly, the third parties who serve
+        cookies within the Grindr Services may link the data they obtain through their
+        cookies within the Grindr Services to other information they may have
+        collected about you. Anytime you interact with or provide your Personal Data
+        to a third-party site, we encourage you to consult the site’s privacy policy.       How can you control cookies?       There are several options available for you to use in order for you to manage
+        cookies and tracking technologies while using the Grindr Services.      Grindr’s Consent Management Platform. For users in the EEA/UK and
+            California, you may adjust the information sharing controls anytime via
+            the in-app Consent Preference Center. This includes opting-out of
+            behavioral advertising or other non-essential tracking technologies.     General Opt-Out. Most web browsers accept cookies automatically. You also may be able to configure your browser settings to
+            use
+            the Grindr Services without some cookie functionality. You can delete cookies manually or set your browser
+            to
+            automatically delete cookies on a pre-determined schedule. For example, in the Internet Explorer menu bar,
+            select: Tools -> Internet Options -> Browsing History -> Delete to view manual and automatic options.    To learn about how to manage cookies on popular browsers, please visit: Apple Safari , Google Chrome , Microsoft Edge , Microsoft Internet Explorer , Mozilla Firefox , Brave , DuckDuckGo .    You may also be able to reset device identifiers through settings on
+            your mobile device. The procedure for managing device identifiers(e.g., IDFA) is different for each device. You can check the specific steps
+            in the help or settings menu of your particular device.        Flash Cookies.     We may also use Flash cookies (also known as “persistent
+identification elements” or “local shared objects”) on certain websites.
+Because Flash cookies cannot be controlled through your browser settings,
+you may click here to adjust your preferences. You can also identify Flash
+cookies running on your computer by visiting the Flash Player folder. Flash
+cookies, or LSO files, are typically stored with a “.SOL” extension. Please
+note that if you block cookies, some functions on the Grindr Services may be
+unavailable, and we may not be able to present you with personally-tailored
+content.      ADDITIONAL INFORMATION.    The following additional information relates to our privacy practices:      Permissible Age.  The Grindr Services are intended only for users eighteen (18) years of age and older (or twenty-one (21)
+        years of age in places where eighteen (18) years is not the age of majority). We do not intentionally gather
+        Personal Data about visitors who are under the age of majority. If you are aware that a child or minor has
+        submitted Personal Data on the Grindr Services, please contact us using the information provided below, or
+        using the in-app reporting tool, so that we can take appropriate action.    Third-Party Applications/Websites.  We have no control over, do not review, and cannot be responsible for the privacy and data handling practices
+        of other websites or applications. Once you click on a link to another website or third-party application, the
+        terms of this Privacy and Cookie Policy do not apply.    Changes To This Privacy and Cookie Policy.  If we make a material change to this Privacy and Cookie Policy we will, at a minimum, attempt to notify you of
+        that change either by sending an e-mail to the last e-mail address that you provided to us (if any) or by
+        notifying you when you log into the Grindr Services.    Translations.  In the event there is a discrepancy between this English language version and any translations of this Policy,
+        the English version shall prevail unless otherwise required under applicable law.    Contact Information.  Grindr welcomes your comments or questions regarding this Privacy and Cookie Policy. Please contact us by
+        email at privacy@grindr.com or by postal mail at the following address:    Grindr LLC  Attn: Data Protection Officer  PO Box 69176  West Hollywood, CA 90069    Effective Date: March 13, 2020 or the date of user acceptance.                    We use cookies to collect and process data. We may use this data for analytics, advertising, and improving user
+        experience. By using this site, you consent to these cookies being placed on your browser.
+        If not, you can disable cookies in your browser settings or stop using the site. Cookie Policy here.   Accept and Continue          

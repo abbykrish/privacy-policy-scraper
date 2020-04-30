@@ -1,0 +1,128 @@
+                Products    Solutions    Support              USA (English)          Sign In                           Quick Links  Try these quick links to visit popular site sections    Download Center    Product Specifications    Products   Support        Recent Searches           Select Your Region            Go to your Country's/Region's Homepage     Asia Pacific    Europe    Latin America    Middle East/Africa    North America        back                back                back                back                back                back       Asia Pacific (English)   Australia (English)   China (简体中文)   India (English)   Indonesia (Bahasa Indonesia)   Japan (日本語)   Korea (한국어)   Philippines (English)   Taiwan (繁體中文)   Thailand (ไทย)   Vietnam (Tiếng Việt)            back       France (Français)   Germany (Deutsch)   Ireland (English)   Italy (Italiano)   Poland (Polski)   Russia (Русский)   Spain (Español)   Turkey (Türkçe)   United Kingdom (English)            back       Argentina (Español)   Brazil (Português)   Chile (Español)   Colombia (Español)   Latin America (Español)   Mexico (Español)   Peru (Español)            back       Israel (עברית)            back       United States (English)   Canada (English)   Canada (Français)                          Sign In           Your username is missing         Your password is missing    By signing in, you agree to our Terms of Service .        Remember me     Forgot your Intel username or password ?  Do you work for Intel? Sign in here .  Don’t have an Intel account? Sign up here for a basic account.           Sign In to access restricted content.   Sign Out                   Products    Solutions    Support         Systems & Devices  Processors  Boards & Kits  Chipsets  FPGAs and Programmable Devices  Structured ASICs  Power Solutions  Memory & Storage  Server Products  Networking & I/O  Wireless  Software & Services  Intel Gateways  Technologies  How to Buy  Product Specifications      Back  Systems & Devices       All Systems and Devices        Laptops     2 in 1s    Standard Laptops    Always Connected PCs    Gaming and Media Laptops    Ultraportable Laptops    Mobile Workstations    Chromebooks*         Desktops     Towers    Gaming and Media Desktops    All In Ones    Mini PCs    Intel® NUC    Workstations    Thermal Solutions         Tablets and Smartphones     Android*    Windows*         Drones     Intel® Aero Platform for UAVs    Intel® Falcon™ 8+ System    Intel Sirius™ Pro System          Intel® Compute Stick    Intel® Compute Card    Cable Modems and Ethernet LAN    Microservers            Back  Processors       All Processors               Intel® Core™    Intel® Core™ X-Series  9th Gen Intel® Core™ i9  10th Gen Intel® Core™ i7  10th Gen Intel® Core™ i5  10th Gen Intel® Core™ i3  8th Gen Intel® Core™ m3  9th Gen Intel® Core™ vPro™               Intel® Xeon®    Intel® Xeon® Scalable  Intel® Xeon® D  Intel® Xeon® W  Intel® Xeon® E               Intel Atom®    Intel Atom® P  Intel Atom® C  Intel Atom® E  Intel Atom® X                Pentium®                 Celeron®                 Itanium®                 Intel® Quark™       Compare Processors         Back  Boards & Kits       All Boards and Kits     Intel® NUC Boards & Kits    Intel® IoT RFP Ready Kits    Intel® Quark™ D2000 Development Kit    Intel® Quark™ SE Microcontroller C1000 Evaluation Kit    Server Motherboards            Back  Chipsets       All Chipsets     Mobile    Desktop    Server    Embedded            Back  FPGAs and Programmable Devices       All FPGAs &  Programmable Devices        Intel® FPGAs     Intel® Agilex™    Intel® Stratix® 10    Stratix® V    Intel® Arria® 10    Arria® V    Intel® Cyclone® 10    Cyclone® V    Intel® MAX® 10    All Intel® FPGAs         Intel® SoC FPGAs     Intel® Stratix® 10    Intel® Arria® 10    Arria® V    Cyclone® V         CPLDs     Intel® MAX® 10    MAX® V    MAX® II         Acceleration Solutions        Configuration Devices        Design Tools and Software        Boards and Kits        Intellectual Property        Intel® FPGA Support        Intel® FPGA Design Services        Documentation        How to Buy      FPGA Product Selector         Back  Power Solutions      Power Solutions    Intel® Enpirion® Power Solutions Home    Power Devices    Support    Powering FPGAs            Back  Memory & Storage       Solid State Drives     Data Center    Client         All Memory and Storage Products     Intel® Optane™ Memory    Intel® Optane™ DC Persistent Memory          Intel® Memory Drive Technology          Intel® Virtual RAID on CPU    Intel® Cache Acceleration Software    Storage            Back  Server Products           All Server Products     Intel® Server Boards    Intel® Server Systems and Chassis    Intel® Data Center Blocks    Intel® RAID Products    Accelerators    Intel® Server Management            Back  Networking & I/O       All Network and I/O Products        Ethernet Products     1 Gigabit Intel® Ethernet Network Adapters    10/25/40 Gigabit Intel® Ethernet Network Adapters    Intel® Ethernet Controllers    Intel® Ethernet Optics and Cables         Intel® Silicon Photonics Optical Transceivers        Fabric Products     Intel® Omni-Path Host Fabric Interface Products    Intel® Omni-Path Edge Switch Products    Intel® Omni-Path Director Class Switch Products    Intel® Omni-Path Director Modules    Intel® Omni Path Cable Products            Back  Wireless       Wireless Solutions     Cellular Modems    Intel® Wireless-AC Products    Intel® Wi-Fi 6 Products            Back  Software & Services        Embedded Software    Intel® FPGA Design Tools and Software    Foundry Services    Intel® Data Center Manager    Intel® HPC Orchestrator    Intel® Lustre* Software    Intel System Management Software (Server)    Software Development Tools        Intel® System Modeling and Simulation Solutions    Intel® Cofluent System Modeling & Simulation    Intel® Docea™ Power and Thermal Modeling and Simulation            Back  Intel Gateways       Gateways Overview     Home Gateways            Back  Technologies       Technologies       Featured Technologies    Virtual Reality Powered by Intel® Technology    5G Powered by Intel® Technology         Intel® FPGA Technologies     Next Gen 10 nm Technology    Heterogeneous Integration    Digital Signal Processing    External Memory    Transceivers        Data Center Technologies    Intel® Select Solutions    Intel® Advanced Vector Extensions 512    Trusted Infrastructure    Intel® QuickAssist Technology    Intel® Silicon Photonics    Intel® Rack Scale Design        Intel® vPro™ Platform Technologies    Intel® vPro™ Platform    Intel® Authenticate Solution    Intel® Active Management Technology    Intel Unite® Solution        Memory & Networking Technologies    Intel® Ethernet Technologies    Intel® Optane™ Technology    Intel® 3D NAND Technology    Thunderbolt™ 3 Technology        Graphics & Visual Technologies    Intel® Graphics Technology    4K UHD Powered by Intel® Technology    Intel® RealSense™ Technology            Back  How to Buy      How to Buy    Intel® Solutions Marketplace    Intel® Technology Providers    Intel® Authorized Distributors and Intel® Approved Suppliers    Intel® FPGA Shop    Intel® RealSense™ Store            Programs  Partners  Hardware Developers  Software Developers  FPGA Developers  Educators    Topics  Topics and Applications  Industries  Technology Tips & Tricks  News & Events  Customer Spotlight      Back  Partners       Intel® Solutions Marketplace        Partner Programs Overview     Intel® Distributor Resource Center    Intel®  Technology Provider    Intel® Cloud Insider Program    Intel® IOT Solutions Alliance         Intel® FPGA Partners     Intel® FPGA Partners Program    Design Solutions Network    COTS Board Partners    EDA Partners    End Market Partners    Mathworks* Partnership    OpenCL Partners    SoC Partners    Training Partners            Back  Hardware Developers        Resource & Design Center    Products and Solutions    Industries and Applications    Technologies and Topics    Design Tools and Services    Support and Training            Back  Software Developers        Intel® Software Overview    Intel® Developer Zone    Intel Registration Center    SDKs & APIs    Software Development Tools    Documentation    Open Source    Firmware            Back  FPGA Developers        Intel® FPGAs    Intel® FPGA Support    Intel® FPGA Developer Hubs    Design Tools and Software    Downloads    Documentation    Training            Back  Educators        K12    Higher Education    FPGA University Program            Back  Topics and Applications        5G Connectivity    Advanced Analytics    Artificial Intelligence    Cloud Computing    Cloud Service Providers    High Performance Computing    Internet of Things    Intelligent Vision and Video    IT@Intel    Machine Learning    Network Connectivity    Network Transformation    PCs for Business    PCs for Small Business    Security            Back  Industries        Automotive    Broadcast    Communications    Computer & Storage    Consumer    Creatives    Education    Energy    Financial Services    Gaming    Healthcare    Industrial    Military, Aerospace & Gov    Retail    Sports    Test & Measurement    Wireline            Back  News & Events        Events    Webinars            Product Support  Intel® FPGA Support  Downloads & Drivers  Warranty  Support for Suppliers  Community Forums  Contact Support      Back  Product Support        Support Home    Tools & Utilities    Identify Your Product    Product Compatibility    Computer Manufacturer Support    Frequently Asked Questions    Glossary of Terms    Presales Support    Software Developer Support            Back  Intel® FPGA Support           Intel® FPGA Support Home     Developer Hubs    Documentation    Training    Knowledge Base    Licensing         Intel® FPGA Quality and Reliability     Quality Policy    Moisture Sensitivity Level Search Tool    Certifications    PCNs and Advisories    Reports and Tools    Single Event Upsets    Business Continuity Program            Back  Downloads & Drivers        Automatically Find Drivers & Software    Browse for Drivers        FPGA Downloads and Drivers    Downloads    Drivers    Design Software Archives    Board Layout and Test    Legacy Software            Back  Warranty        Check Warranty    How Warranty Works    Submit & Track Warranty Requests    Warranty Terms and Conditions                           The browser version you are using is not recommended for this site. Please consider upgrading to the latest version of your browser by clicking one of the following links.    Safari  Chrome  IE  Firefox                                 Information for California Consumers; Your California Privacy Rights                                        This section provides more information about your rights under the California Consumer Privacy Act or “CCPA” (California Civil Code Section 1798.100 et seq.). The CCPA provides rights to California consumers to have notice about the collection and use of their personal information, request access to their personal information, request deletion of their personal information, request to opt out of the “sale” of personal information where such information is sold, and to not be discriminated against for exercising such rights.    Intel does not sell your personal information. You can request access to or deletion of your personal information by using the online Contact Us form and including your name, email address, account identification, and purpose of the request.  If you request a deletion of your personal information, please note that we may still need to retain certain information for recordkeeping purposes, and/or to complete any transactions that you began prior to requesting such deletion. Some of your information may also remain within our systems and other records where necessary for compliance with applicable law.    Our Privacy Notice describes the categories of personal information that Intel collects and the purposes for use of such personal information.  The categories of personal information collected include:  ·       Identifiers such as your first name, last name, email address, IP address, unique device identifiers or other online identifier;  ·       Commercial information such as your credit card, debit card, bank account number, or purchase history;  ·       Biometric information;  ·       Internet or other electronic network activity information, including connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address;  ·       Interaction with our software or apps such as usage data, type and version of operating system, hardware version, device settings, software types, battery and signal strength, screen resolution, device manufacturer and model, language, and Internet browser type and version;  ·       Geolocation data;  ·       Audio, electronic, visual, thermal, or similar information, such as photos;  ·       Professional or employment-related information;  ·       Education information;  ·       Other information that relates to or is capable of being associated with you, such as social media engagement and information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, and mobile network information.    Intel, as detailed in the Privacy Notice , collects personal information from a variety of sources (such as directly from you, through device and product operations, from third party parties and through our website and services), and use such information for business and commercial purposes and shares such information for a variety of business purposes, such as to provide services, to respond to requests and offer customer support, to fulfill legal and contractual obligations and to build its innovative products.  Please refer to our Privacy Notice for the categories of third parties with whom Intel shares personal information.                                     Company Information    Our Commitment    Communities    Investor Relations    Contact Us    Newsroom    Jobs                                 © Intel Corporation    Terms of Use    *Trademarks    Privacy    Cookies    Supply Chain Transparency    Site Map             <script>var isTargetEnabled =false;</script>
+        
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+        
+    
+
+
+
+
+    
+    
+        
+    
+
+
+
+<script type="text/javascript">
+    var cq_tms = {
+        
+        wa_industry_type: "",
+        wa_partner_prog: "",
+        wa_subject: "",
+        wa_biz_size: "",
+        wa_emt_org: "",
+        wa_emt_intel: "",
+        wa_partner_type: "",
+        wa_programidentifier: "",
+        wa_location: "",
+        wa_language: "",
+        wa_english_title: "Information for California Consumers; Your California Privacy Rights",
+        wa_content_type: "",
+        wa_intel_platform: "",
+        wa_applications: "",
+        wa_local: "",
+        wa_intel_technology: "",
+        wa_system_type: "",
+        wa_product_name: "",
+        wa_audience: "",
+        wa_life_cycle: "",
+        wa_cq_url: "/content/www/us/en/privacy/privacy-ccpa-california.html",
+        wa_page_type_micro: "mf-contentdetailpage",
+        wa_env: "prd",
+        wa_cq_pub_env: "publish",
+        wa_transl_status: "",
+        wa_product_id: "",
+        wa_software: "",
+        wa_reference_design: "",
+        wa_codename: "",
+        wa_created_date: "1576614839107",
+        wa_modifed_date: "1575936570290",
+        wa_ownedby: "",
+        wa_managedby: "",
+        wa_idz_nid : "",
+        wa_event_type: "",
+        wa_idz_custom_tags: "",
+        wa_programming_language: "",
+        wa_skill_level: "",
+        wa_solution: "",
+        wa_product_formFactor: "",
+        wa_operating_system: "",
+        wa_marketing_products: "",
+        wa_ssg_third_party_prod_sys_sol: "",
+        
+        wa_secondary_content_type: ""
+    };
+    
+    
+    
+    cq_tms.wa_tms_sync_load = "deferred";
+    
+</script>
+
+
+
+
+<script type="text/javascript" src="/content/dam/www/global/wap/tms.sync.js" async></script>
+
+        
+    
+    <link rel="stylesheet" href="/etc/designs/ver/6.8.1087/intel/clientlibs/pages/commons-page.min.css" type="text/css"><script src="/etc/designs/ver/6.8.1087/intel/clientlibs/pages/commons-page.min.js" defer></script>
+
+
+    
+        
+        
+            
+        
+    
+
+    
+        
+        
+            <link rel="stylesheet" href="/etc/designs/ver/6.8.1087/intel/clientlibs/pages/contact-us.min.css" type="text/css">
+        
+    
+
+<script>!function(){var e=setInterval(function(){"undefined"!=typeof $CQ&&($CQ(function(){CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation"),CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/intel",window.location.pathname.substr(0,window.location.pathname.indexOf(".")))}),clearInterval(e))},100)}();</script>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/etc/designs/intel/us/en/css/intel.rwd.override.css"/> 
