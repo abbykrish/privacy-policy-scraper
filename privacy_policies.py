@@ -67,7 +67,7 @@ def print_exs(key_word):
         file = open('privacy_texts/' + fileName,'r')
         data = file.read().replace('\n', '')
 
-        regex = '[^.]* {term}[^.]*\.'.format(term=key_word)
+        regex = '[^.]*{term}[^.]*\.'.format(term=key_word)
         results = re.findall(regex, data.lower())
 
         if len(results) > 0:
