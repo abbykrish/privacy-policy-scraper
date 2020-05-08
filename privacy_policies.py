@@ -73,7 +73,10 @@ def print_exs(key_word):
         if len(results) > 0:
             print (fileName, results)
 if __name__ == '__main__':
+    print("=== Financial Incentive ===")
     print_exs("financial incentive")
+    print("=== Discrimination ===")
+    print_exs("discrimination")
 
 
 

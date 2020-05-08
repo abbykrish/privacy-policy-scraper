@@ -1,0 +1,53 @@
+California Consumer Privacy Act (CCPA)
+Notice for California Consumers
+Overview
+The California Consumer Privacy Act of 2018 (“CCPA”) becomes effective on January 1, 2020 and creates a variety of privacy rights for California consumers. We share the same information about our practices with everyone but use this notice to make disclosures required by the CCPA.
+
+This notice includes the following parts:
+
+Transparency: We are transparent about how your personal information is collected, used, shared and sold.
+Control: We put you in control of your personal information, including accessing and deleting your personal information.
+Benefits to You: We use your personal information to benefit you and to make your experiences better.
+To learn more about Microsoft’s privacy principles, visit privacy.microsoft.com.
+
+Transparency
+What Personal Information We Collect
+You have the right to know what kinds of personal information Microsoft is collecting and our business purposes for that collection.
+
+We make this information available to consumers in the Personal data we collect section on our Privacy Statement.
+
+How We Use Your Personal Information
+You have the right to know how personal information is obtained, how it is used, and our business purposes for that use.
+
+We make this information available to consumers in the Personal data we collect section on our Privacy Statement.
+
+How We Share Your Personal Information
+You have the right to know if your personal information is shared with any third parties. We may share personal information to have Service Providers, as defined by the CCPA, perform services specified by written contract. In addition, we may share personal information with third parties for other notified purposes, as permitted by the CCPA.
+
+We make this information available to consumers in the Reasons we share personal data section on our Privacy Statement.
+
+We Do Not Sell Your Personal Information
+You have the right to know whether your personal information is being sold. Your personal information is sold when it is shared with a third party for monetary or other valuable consideration for a purpose that is not a “business purpose” as set forth in the CCPA.
+
+Microsoft does not sell your personal information.
+
+Control
+Right to Know, Right to Receive, Right to Delete
+You have the right to:
+
+Know what specific pieces of personal information Microsoft has collected and retained about you over the previous 12 months.
+Receive a copy of your personal information.
+Delete your personal information.
+Microsoft makes it easy for you to exercise your rights. Using our Privacy dashboard, you can log into your Microsoft account and view, download or delete the specific pieces of personal information we have collected.
+
+If you do not have a Microsoft account, or have a more detailed inquiry, you can submit a request to the Privacy Response Center. Before helping you with your inquiry, we may ask to verify your identity or the identity of your authorized agent.
+
+Right to “Opt-out” of “Sale”
+Microsoft does not sell your personal information, so we do not offer an opt out.
+
+Benefits to You
+Financial Incentives
+The CCPA allows businesses to offer consumers financial incentives for sharing personal information. For example, a business can offer a rewards program or provide a premium service to consumers as compensation for their personal information. Where Microsoft offers these programs, your participation is optional. If you choose to participate, your participation will be subject to any applicable terms, and you may withdraw at any time.
+
+Non-Discrimination
+The CCPA prohibits businesses from discriminating against you for exercising your rights under the law. Such discrimination may include denying a good or service, providing a different level or quality of service, or charging different prices. The CCPA permits businesses to provide differing levels or quality or different prices where the business can demonstrate that the difference is reasonably related to the value to the business of the consumer’s personal information.

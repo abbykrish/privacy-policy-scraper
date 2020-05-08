@@ -1,1 +1,306 @@
-      X     Your browser is not supported. Your dashboard may experience future loading problems if not resolved. Please update your browser if the service fails to run our website.                    Pick Your State  Resources for Your State   The resources for our providers may differ between states. We were unable to automatically detect your location, but you can choose your state manually to see content that is most relevant to you.  It looks like you're in  . We currently don't offer resources in your area, but you can select an option below to see information for that state. You can also visit bcbs.com to find resources for other states  It looks like you're outside the United States. We currently don't offer resources in your area, but you can select an option below to see information for that state. You can also visit bcbs.com to find resources for other states.    California    Colorado    Connecticut    Georgia    Indiana    Kentucky    Maine    Missouri    New Hampshire    Nevada    New York    Ohio    Virginia    Wisconsin    If your state isn't listed, check out bcbs.com to find coverage in your area.         Skip To Main Content           Log In   Español               Find a Doctor  Search           Menu       Individual & Family    Medicare    Medicaid    Employers    Producers    Providers        Log In   Español                  Search       Individual & Family     Individual and Family Overview     Shop   Shop   Health Insurance  Vision Insurance  Dental Insurance Plans  Supplemental Insurance   Travel Medical Insurance      Care   Care   What to Know  Getting Better Care  Preventive Health  Find a Doctor  Search Medications      Support   Support   Login  Registration  Forgot Username or Password?  Contact Us  Member Needs  Forms  Glossary  FAQs       Medicare     Medicare Overview     Shop   Shop   Medicare Information  Medicare Coverage and Enrollment  Turning 65  Medicare Advantage Plans: Part C  Medicare Part D Plans  Medicare Supplement Plans (Medigap)  Dental and Vision Coverage      Care   Care   What to Know  Getting Better Care  Preventive Health  Find a Doctor      Support   Support   Login  Registration  Forgot Username or Password?  Contact Us  Medicare Member Needs  Forms  Glossary  FAQs       Medicaid     Medicaid Overview      Employers    Employers Overview     Shop   Shop   Medical  Health and Wellness  Dental & Vision  Life & Disability      Resources   Resources   Find a Doctor  Employer Blog      Support   Support   Login  Registration  Forgot Username or Password?  Find a Form  Dental Online Services  EasyPay      Anthem Life Resources   Anthem Life Resources   Compassi  Secure Employer Access to Claims  Submit a Claim  My Online Bill       Producers     Producers Overview     Plans and Services   Plans and Services   Start Selling Anthem  Medical  Dental & Vision  Life & Disability  Supplemental Health  Pharmacy  Health & Wellness  Group Retiree Solutions (GRS)      Communications   Communications   Contact Us  News  Public Policy      Resources   Resources   Find a Doctor  Find a Form  Dental Online Services  Login  Registration  Statement of Benefits (SOB)  Summary of Benefits and Coverage (SBC)       Providers    Providers Overview     Provider Resources   Provider Resources    Forms and Guides   Policies, Guidelines & Manuals   Provider Maintenance  Pharmacy   Behavioral Health   Dental  Find a Doctor   Availity      Claims   Claims    Claims Submission   Electronic Data Interchange (EDI)   Prior Authorization      Patient Care   Patient Care    Enhanced Personal Health Care   Medicare Advantage      Communications   Communications    News   Education and Training   Contact Us      Join Our Network   Join Our Network    Getting Started with Anthem   Credentialing   Employee Assistance Program (EAP)                 Main Content           Where do you have or need coverage?  Select a state for information that's relevant to you.    Information for     Select a State       Yikes! We Can't Find That Page.           The page you're trying to view does not exist.  This could be due to a mistyped address or an out-of-date link.    Please use your browser's back button or return to the previous page, or select a popular link:    Home Page   Member Needs    Contact Us                     About  Blog  Privacy  Legal  Sitemap  Accessibility   Nondiscrimination Notice   Health Care Fraud Prevention   Anthem Cyber Attack         Medicaid   Producers   Employers   Providers   Federal Employees  Press Room   Careers   Anthem Foundation  Contact Us       Select a language Toggle Dropdown Shqip albanian հայերեն armenian አማርኛ amharic Русский russian English english Nederlands dutch Igbo igbo Bahasa Indonesia indonesian Kirundi kirundi 한국어 korean Oromifaa oromo Deitsch pennslylvania-dutch ไทย thai Українська ukrainian Ɓǎsɔ́ɔ̀ Wùɖù bassa বাংলা bengali 中文 chinese Dinka dinka Français french Deutsch german ગુજરાતી gujarati Kreyòl Ayisyen haitian हिंदी hindi White Hmong hmong Ilokano ilokano Italiano italian 日本語 japanese ខ្មែរ khmer ພາສາລາວ lao नेपाली nepali polski polish Português portuguese-europe ਪੰਜਾਬੀ punjabi Română romanian Samoa samoan Srpski serbian Tagalog tagalog Tiếng Việt vietnamese Yorùbá yoruba אידיש yiddish اردو urdu فارسي farsi العربية arabic Español spanish Ελληνικά greek Diné navajo Burmese burmese                      Use the App Let's make healthy happen         © 2005 - 2020 copyright of Anthem Insurance Companies, Inc. Serving Colorado, Connecticut, Georgia, Indiana, Kentucky, Maine, Missouri (excluding 30 counties in the Kansas City area), Nevada, New Hampshire, Ohio, Virginia (excluding the Northern Virginia suburbs of Washington, D.C.), and Wisconsin.        Back To Top                
+1
+Updated February 13, 2020
+Privacy Notice for California Residents
+1/1/2020
+This Privacy Notice for California Residents applies to individuals who live in the State of California and
+whose data is subject to the California Consumer Privacy Act of 2018 (CCPA). Below describes what
+information Anthem collects that is subject to the CCPA, your rights under the CCPA, and how you can
+enforce those rights under the CCPA. Any terms defined in the CCPA have the same meaning when used
+here.
+Information We Collect
+We collect information that identifies, relates to, describes, references, is capable of being associated
+with, or could reasonably be linked, directly or indirectly, with a particular consumer or device
+(“Personal Information”).
+Personal Information does not include:
+ Publicly available information from government records.
+ Deidentified or aggregated consumer information.
+ Information excluded from the CCPA’s scope, like:
+o health or medical information covered by the Health Insurance Portability and
+Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical
+Information Act (CMIA) or clinical trial data;
+o personal information covered by certain sector-specific privacy laws, including the
+Fair Credit Reporting Act (FCRA), the Gramm-Leach-Bliley Act (GLBA) or California
+Financial Information Privacy Act (FIPA), and the Driver’s Privacy Protection Act of
+1994.
+If certain types of information are exempt from CCPA, and therefore this policy, other Anthem privacy
+policies may apply such as our HIPAA Notice of Privacy Practices.
+Anthem has collected the following categories of Personal Information from its consumers within the
+last twelve (12) months:
+2
+Updated February 13, 2020
+Category Examples Collected?
+A. Identifiers. A real name, alias, postal address, unique personal identifier, online
+identifier, Internet Protocol address, email address, account name,
+Social Security number, driver's license number, passport number, or
+other similar identifiers.
+YES
+B. Personal information
+categories listed in the
+California Customer
+Records statute (Cal. Civ.
+Code § 1798.80(e)).
+Information that is protected against security breaches such as: name,
+signature, Social Security number, physical characteristics or
+description, address, telephone number, passport number, driver's
+license or state identification card number, insurance policy number,
+education, employment, employment history, bank account number,
+credit card number, debit card number, or any other financial
+information, medical information, or health insurance information.
+Some personal information included in this category may overlap with
+other categories may not be subject to all the rights under the CCPA.
+YES
+C. Protected classification
+characteristics under
+California or federal law.
+Age (40 years or older), race, color, ancestry, national origin,
+citizenship, religion or creed, marital status, medical condition,
+physical or mental disability, sex (including gender, gender identity,
+gender expression, pregnancy or childbirth and related medical
+conditions), sexual orientation, veteran or military status, genetic
+information (including familial genetic information).
+YES
+D. Commercial
+information.
+Records of personal property, products or services purchased,
+obtained, or considered, or other purchasing or consuming histories
+or tendencies.
+NO
+E. Biometric information. Genetic, physiological, behavioral, and biological characteristics, or
+activity patterns used to extract a template or other identifier or
+identifying information, such as, fingerprints, faceprints, and
+voiceprints, iris or retina scans, keystroke, gait, or other physical
+patterns, and sleep, health, or exercise data.
+YES
+F. Internet or other
+similar network activity.
+Browsing history, search history, information on a consumer's
+interaction with a website, application, or advertisement.
+YES
+G. Geolocation data. Physical location or movements. NO
+H. Sensory data. Audio, electronic, visual, thermal, olfactory, or similar information. NO
+3
+Updated February 13, 2020
+I. Professional or
+employment-related
+information.
+Current or past job history or performance evaluations. YES
+J. Non-public education
+information (per the
+Family Educational Rights
+and Privacy Act (20 U.S.C.
+Section 1232g, 34 C.F.R.
+Part 99)).
+Education records directly related to a student maintained by an
+educational institution or party acting on its behalf, such as grades,
+transcripts, class lists, student schedules, student identification codes,
+student financial information, or student disciplinary records.
+NO
+K. Inferences drawn from
+other personal
+information.
+Profile reflecting a person's preferences, characteristics, psychological
+trends, predispositions, behavior, attitudes, intelligence, abilities, and
+aptitudes.
+NO
+We generally do not collect additional categories of personal information or use the personal
+information we collected for significantly different or meaningfully unrelated purposes without
+providing you notice.
+Where We Obtain Personal Information
+We obtain the categories of personal information listed above from the following categories of sources:
+ Directly from you. For example, from forms you complete on our website.
+ Indirectly from you. For example, from observing your actions on our website or interactions with
+our advertisers.
+ Third parties. For example, pharmacy benefit managers or providers.
+Use of Personal Information
+We may use, or disclose the personal information we collect for one or more of the following business
+purposes:
+ To fulfill or meet the reason you provided the information. For example, if you share personal
+information in order to be a credentialed provider in Anthem’s provider network, we will use that
+personal information for the credentialing process.
+ To provide you with information, products or services that you request from Anthem.
+ To provide you with email alerts, event registrations and other notices concerning Anthem’s
+services, or news that may be of interest to you.
+ To carry out our obligations and enforce our rights arising from any contracts entered into between
+you and Anthem, including billing.
+ To improve our website and present its contents to you.
+ For testing, research, analysis, and product development.
+ As necessary or appropriate to protect the rights, property, or safety of Anthem and its employees,
+Anthem’s clients or others.
+4
+Updated February 13, 2020
+ To respond to law enforcement requests and as required by applicable law, court order, or
+governmental regulations.
+ As described to you when collecting your personal information or as otherwise set forth in the
+CCPA.
+Sharing Personal Information
+Anthem may disclose your personal information to a third party for a business purpose. When we
+disclose personal information for a business purpose, we enter a contract that describes the purpose
+and requires the recipient to both keep that personal information confidential and not use it for any
+purpose except performing the contract.
+In the preceding twelve (12) months, Anthem has disclosed the following categories of personal
+information for a business purpose:
+Category A: Identifiers
+Category B: California Customer Records
+Category C: Protected classification characteristics under California or federal law.
+Category F: Internet history
+Category I: Professional or employment-related information
+In the preceding twelve (12) months, Anthem has not sold personal information.
+5
+Updated February 13, 2020
+Your Rights and Choices
+The CCPA provides California residents with specific rights regarding their personal information. This section describes your CCPA rights and
+explains how to exercise those rights.
+Right To Exercise This Right Time Frame and
+Response From Anthem
+If We Cannot Complete Your Request
+Access to specific information
+(e.g. categories, sources, and
+business purposes for collection,
+use, and sale) in the last 12
+months.
+Submit request and
+confirm your “verifiable
+consumer request” via
+the contact information
+below.
+We will evaluate and
+respond to your request
+electronically or by mail (at
+your request) within 45 days.
+If we require more time, we
+will inform you of the reason
+and extension period in
+writing.
+We will explain the reasons we cannot comply with a request in our
+response.
+Deletion of information.
+You have the right to request that
+Anthem delete your personal
+information, subject to certain
+exceptions.
+Submit request and
+confirm your “verifiable
+consumer request” via
+the contact information
+below.
+We will evaluate and
+respond to your request
+electronically or by mail (at
+your request) within 45 days.
+If we require more time, we
+will inform you of the reason
+and extension period in
+writing.
+Once we confirm your
+verifiable consumer request,
+we will delete (and direct our
+service providers to delete)
+your personal information
+We will explain the reasons we cannot comply with a request in our
+response.
+The law does not require us to honor requests to delete where it is
+necessary in certain circumstances for us or service provider to maintain
+personal information. These include:
+- Provide a good or service, perform our contract or take action
+reasonably anticipated in the context of our ongoing relationship with
+you.
+- Detect and protect against malicious, deceptive, fraudulent, or illegal
+activity, or prosecute those responsible for such activities.
+- Debug products to identify and repair errors that impair existing
+intended functionality.
+- Exercise and/or support free speech provided for by law.
+- Comply with the California Electronic Communications Privacy Act (Cal. 
+6
+Updated February 13, 2020
+Right To Exercise This Right Time Frame and
+Response From Anthem
+If We Cannot Complete Your Request
+from our records, unless an
+exception applies.
+Penal Code § 1546 et. seq.).
+- Engage in research for which you provided informed consented that
+complies with applicable laws when deletion will seriously impair the
+research.
+- Use internally for purposes aligned with your expectations and our
+relationship.
+- Comply with a legal obligation or make other lawful use compatible
+with the context in which information was provided.
+7
+Updated February 13, 2020
+“Verifiable Consumer Request”
+To exercise your rights under the CCPA, you must submit a “verifiable consumer request.” Only you, or a
+person registered with the California Secretary of State that you authorize to act on your behalf, may
+make a verifiable consumer request related to your personal information. You may also make a
+verifiable consumer request on behalf of your minor child.
+A verifiable consumer request must:
+ Provide sufficient information that allows us to reasonably verify you are the person about whom
+we collected personal information or an authorized representative.
+ Describe your request with sufficient detail that allows us to properly understand, evaluate, and
+respond to it.
+If we cannot verify your identity or authority to make the request, we will not be able to fulfill your
+request.
+The information provided for verification will only be used for that purpose.
+Processing Fees
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive,
+repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you
+why we made that decision and provide you with a cost estimate before completing your request.
+Personal Information Sales Opt-Out and Opt-In Rights
+If you are 16 years of age or older, you have the right to direct us to not sell your personal information
+at any time (the “right to opt-out”). We do not sell the personal information of consumers we actually
+know are less than 16 years of age, unless we receive affirmative authorization (the “right to opt-in”)
+from either the consumer who is between 13 and 16 years of age, or the parent or guardian of a
+consumer less than 13 years of age. Consumers who opt-in to personal information sales may opt-out of
+future sales at any time.
+To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by
+visiting https://www.anthem.com/ca/california-consumer-privacy-act-form/ or via the contact
+information below.
+Once you make an opt-out request, we will wait at least twelve (12) months before asking you to
+reauthorize the sale of your personal information. However, you may change your mind and opt back in
+to personal information sales at any time by visiting our website and sending us a message.
+8
+Updated February 13, 2020
+We will only use personal information provided in an opt-out request to review and comply with the
+request.
+Non-Discrimination
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the
+CCPA, we will not:
+ Deny you goods or services.
+ Charge you different prices or rates for goods or services, including through granting discounts or
+other benefits, or imposing penalties.
+ Provide you a different level or quality of goods or services.
+ Suggest that you may receive a different price or rate for goods or services or a different level or
+quality of goods or services.
+We may offer you certain financial incentives such as discounted prices, rates, or quality levels. Any
+permitted financial incentive we offer will reasonably relate to your personal information’s value and
+contain written terms that describe the program’s material aspects. Participation in a financial incentive
+program requires your prior opt in consent, which you may revoke at any time.
+California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our Website that are
+California residents to request certain information regarding our disclosure of personal information to
+third parties for their direct marketing purposes. To make such a request, please send us an electronic
+message through our website or write us at our address listed below.
+Changes to Our Privacy Notice
+We reserve the right to amend this privacy notice at our discretion and at any time. When we make
+changes to this privacy notice, we will post the updated notice on the Website and update the notice’s
+effective date. Your continued use of our Website following the posting of changes constitutes your
+acceptance of such changes.
+Contact Information
+You can contact Anthem with your questions, comments, rights requests, and other CCPA-related
+inquiries by:
+ Mail: Anthem Privacy Office
+Mail Drop: CO0109-0903
+700 Broadway
+Denver, CO 80273
+ Or contacting the applicable areas below:
+HealthCore: Phone: 833-905-1643
+Anthem Workers’ Compensation:
+Anthem Broker Credentialing and Licensing: Phone: 877-304-6470 
+9
+Updated February 13, 2020
+Anthem Provider Services: Phone: 800-677-6669
+Anthem Human Resources: Phone: 866-777-9636
+Anthem Travel, Expense Management and Procurement: Phone: 1-877-811-3112
+If you believe your personal information was accessed without permission, please contact Anthem by
+the means listed above.
+Effective Date
+This Privacy Notice for California Residents is effective 1/1/2020. Certain rights granted by the CCPA will
+not be effective until 1/1/2021.
