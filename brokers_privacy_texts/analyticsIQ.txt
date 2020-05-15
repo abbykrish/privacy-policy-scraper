@@ -1,0 +1,204 @@
+AnalyticsIQ Privacy Policy
+1. INTRODUCTION
+This AnalyticsIQ Privacy Policy (also referred to as the ‘Privacy Policy’) informs
+consumers (‘you’) on the collection, use, sharing, and selling (collectively referred to as
+‘processing’ or ‘process’) of your personal information in connection with AnalyticsIQ’s
+services. This Privacy Policy also explains your privacy rights in relation to these
+processing activities.
+As used in this Privacy Policy, ‘personal information’ or ‘personal data’ means
+information that relates to an identified individual or to an identifiable individual. For
+example, this could include among other things your name, address, email address,
+past purchase behavior or information regarding your interests. Personal information
+about you that AnalyticsIQ may process is also referred to as ‘information about you.’
+This Privacy Policy was last updated on March 30, 2020. However, the Privacy Policy
+can change over time, for example, to comply with legal requirements or to meet
+changing business needs.
+2. SCOPE
+The Privacy Policy applies to AnalyticsIQ’s processing of information about you.
+This data is provided to AnalyticsIQ by our third-party data suppliers to enable our
+customers and partners to market products and services to consumers.
+The Privacy Policy does not apply to the following activities:
+• First-party information collected about you by AnalyticsIQ customers. Our
+customers are responsible for their own personal information collection
+practices and use of this information for marketing and other purposes. To find
+out more about our customers’ use of first-party information about you, you are
+encouraged to review the relevant privacy policy of the company who collected
+your information from you or is sending you advertising. Please consult that
+company if you have any further questions about its use of information.
+• Data collected for AnalyticsIQ’s own direct marketing purposes. For
+information about AnalyticsIQ’s processing activities with regard to your
+personal information collected on AnalyticsIQ websites and applications and
+used for AnalyticsIQ’s own direct marketing purposes, please refer to our
+website at https://analytics-iq.com/privacy-policy.
+3. WHICH CATEGORIES AND SPECIFIC PIECES OF PERSONAL INFORMATION
+DO WE PROCESS?
+AnalyticsIQ may process information about you, including information from publicly
+available sources or third-party data providers.
+• Information about you is obtained by AnalyticsIQ from its offline partners and
+other third parties who may not have a direct relationship with you who collect
+information from their offline sources.
+Information about you may in some cases directly identify you, while in other cases it
+may only indirectly identify you. Personal information that is collected offline and that
+can directly identify you may include, for example:
+• Name and physical address, email addresses, and telephone numbers;
+• Demographic attributes, when tied to other information that identifies you;
+• Company data such as the name, size and location of the company you work for
+and your role within the company;
+• Data from marketing opt-in lists, consumer surveys, or publicly available
+information;
+• Derived latitude/longitude from a physical address.
+We may associate personal information about you with our Audiences Segments or
+Profiles as part of the provision of AnalyticsIQ services to our customers and partners:
+• Audience Segments are a specific group of consumers that are likely to share a
+common behavior, preference or lifestyle used for direct marketing by our
+customers.
+o Example: You are likely in-market for a new mini-van so you are in the
+AnalyticsIQ Audience Segment for “In-Market for a Mini-Van”
+• Profiles are a set of attributes about a specific consumer or device, or a set of
+multiple consumers or devices sharing common attributes used for marketing by
+our customers.
+o Example: age bracket 25-45; children in the home; enjoys family cruises;
+in-market for new mini-van
+4. FOR WHAT COMMERCIAL OR BUSINESS PURPOSE DO WE USE YOUR
+PERSONAL INFORMATION?
+a) We use personal information to help enable AnalyticsIQ’s customers and partners to
+market product and services to you via offline and online marketing activities. More
+specifically, AnalyticsIQ can process information about you:
+i. For advertising on behalf of our AnalyticsIQ customers.
+▪ Example: A marketing professional working for an auto company wants to
+market the company’s new mini-van to a specific group of individuals 
+(also known as an audience) that may be interested in the vehicle. The
+marketing professional uses AnalyticsIQ to create an audience likely to
+be in-market for a new mini-van who are also parents to young children. If
+you are in the audience, you may subsequently see advertisements for
+the mini-van, such as direct mail piece or an online ad.
+ii. For enabling our AnalyticsIQ customers to personalize their products and
+services, including site optimization, email personalization and dynamic
+marketing and advertising optimization.
+▪ Example: If you are in AnalyticsIQ’s predictive audience segment for
+those who are likely to be in-market for a new mini-van, when you visit an
+auto company’s website, the auto company may display messaging on
+their website or in a display ad that highlights their new mini-van model.
+iii. For creating modelled audiences for AnalyticsIQ customers’ products and
+services.
+▪ Example: A marketing professional working for an automotive company
+wants to find new potential customers who are likely to be interested in
+purchasing a new mini-van. AnalyticsIQ can help the auto company by
+identifying key characteristics between the Profiles of those who have
+recently purchased a new mini-van and other Profiles where a similar
+interest can be inferred based on these characteristics.
+iv. For campaign measurement, analytics, and development of insights on
+behalf of our AnalyticsIQ customers.
+▪ Example: A marketing professional working for an automotive company
+wants to better understand if the company’s marketing campaign for a
+new mini-van model led to an increase in their vehicle sales among new
+parents. The marketing professional appends AnalyticsIQ audience
+segment of “new parents” to their conversion data to understand how
+many new parents were among those who purchased the mini-van
+model.
+v. To enable AnalyticsIQ customers and partners to connect your Audience
+Segments across the various browsers and/or devices you may use for the
+purposes described in this section.
+▪ Example: You use several devices (your desktop, smartphone, and
+tablet) to browse the web. Using your web activity and user-supplied
+login information, AnalyticsIQ’s onboarding and linkage partners have
+indicated that you are likely the same user across those same devices.
+An automotive company is now able to display mini-van offers to you (via
+a de-identified cookie ID or mobile ad ID, for example) on these different
+devices by targeting AnalyticsIQ’s Audience Segments.
+b) We use personal information for the business purpose of complying with applicable
+laws and regulations and to operate our business.
+5. WHEN AND HOW CAN WE SHARE YOUR PERSONAL INFORMATION?
+Sharing with or selling to third parties
+We may share personal information with or sell personal information to the following
+third parties for a commercial purpose:
+• AnalyticsIQ customers and partners, such as marketers, ad agencies, onboarders,
+web publishers, connected TV providers, demand side platforms, data
+management platforms, supply-side platforms and social media networks; and
+• third-party service providers as necessary to perform AnalyticsIQ services on
+behalf of AnalyticsIQ.
+When third parties are given access to personal information, we will take appropriate
+contractual, technical and organizational measures designed to ensure that personal
+information is processed only to the extent that such processing is necessary,
+consistent with this Privacy Policy and in accordance with applicable law.
+6. HOW IS INFORMATION ABOUT YOU SECURED?
+AnalyticsIQ has implemented appropriate technical, physical and organizational
+measures designed to protect personal information against accidental or unlawful
+destruction or accidental loss, damage, alteration, unauthorized disclosure or access,
+as well as all other forms of unlawful processing.
+7. DOES ANALYTICSIQ COLLECT PERSONAL INFORMATION FROM CHILDREN?
+We do not intentionally collect or share personal information of children under 18 years
+of age. Further, we prohibit our AnalyticsIQ partners from providing AnalyticsIQ with
+personal information from sites directed to children under the age of 18 or from
+consumers whose age these companies know to be under the age of 18.
+8. WHAT ARE YOUR PRIVACY RIGHTS?
+Pursuant to the California Consumer Privacy Act (CCPA), and other applicable laws and
+regulations, individuals in certain jurisdictions may have data subject rights enabling
+them to opt-out of third party sharing or selling, delete or remove, or request to access
+and receive a copy of the categories of their personal information in AnalyticsIQ’s
+possession or for which AnalyticsIQ is otherwise responsible.
+Access information about you
+• To request access to your information, please fill in the One Trust request form
+linked here. While the majority of offline data access requests can be handled
+quickly, complex requests may take more research and time. In such cases, you
+will be contacted regarding the nature of the request and appropriate next steps
+within 45 days from the date of receipt of your request. During the request 
+process, you will be asked to verify your identity. To protect everyone’s
+information, we cannot provide access to offline data unless AnalyticsIQ can
+verify the identity of the individual making the request. AnalyticsIQ only
+processes offline data on residents within the United States. We cannot provide
+offline first-party information that is collected and maintained by our customers. If
+you have questions in regards to first-party information, AnalyticsIQ recommends
+that you contact directly the company that collected it from you.
+Opt-out or request to delete information about you
+AnalyticsIQ offers multiple ways for you to opt-out of third party sharing or selling and
+object to our use of information about you:
+• AnalyticsIQ Marketing Cookie Opt-out
+o We use Google tools for our own company’s site analysis, personalization
+and ad retargeting purposes. Control your third-party cookie settings,
+including Google permissions, by heading to the Digital Advertising
+Alliance’s Consumer Choice Tool located here.
+• AnalyticsIQ Company Emails Opt-out
+o To opt-out of communications directly from AnalyticsIQ, click
+“unsubscribe” on our marketing communications, or email info@analyticsiq.com with the subject line ‘Opt-Out’.
+• AnalyticsIQ Marketing Database Opt-out and/or Deletion Request
+o Any consumer may choose to opt-out of any future sales of their
+information from our marketing database. Any consumer may also choose
+to have us delete from our marketing database the information we have
+collected about them. To submit your request, provide the required
+information through the One Trust portal linked here. As needed,
+AnalyticsIQ may request additional information from you to verify your
+identity.
+Please note that if you opt out or request deletion, you may still temporarily see
+advertising from AnalyticsIQ’s customers based on their targeting of our Audience
+Segments from campaigns that are already underway. However, you will be deleted or
+opted-out of all future advertising campaigns from customers that use our marketing
+data.
+9. WHAT ARE YOUR RIGHTS UNDER THE CALIFORNIA CONSUMER PRIVACY
+ACT (CCPA)?
+If you are a California resident, you may request that we:
+1. Disclose to you the following information covering the 12 months preceding your
+request:
+• the categories and specific pieces of personal information we collected about
+you and the categories of personal information we sold (see Section 3);
+• the categories of sources from which we collected such personal information
+(see Section 3);
+• the business or commercial purpose for collecting or selling personal
+information about you (see Section 4); and
+• the categories of third parties to whom we sold or otherwise disclosed
+personal information (see Section 5).
+2. Delete personal information we collected from you (see Section 8); or
+3. Opt-out of any future sale of personal information about you (see Section 8).
+We will respond to your request consistent with applicable law.
+10. HOW TO CONTACT ANALYTICSIQ IF YOU HAVE QUESTIONS, COMMENTS
+OR COMPLAINTS
+If you believe your personal information has been used in a way that is not consistent
+with the Privacy Policy, current regulations such as CCPA or your choices, or if you
+have further questions, comments or suggestions related to this Privacy Policy, please
+contact the AnalyticsIQ privacy compliance team in writing, addressed to:
+AnalyticsIQ Corporation
+Attn: Privacy Compliance Team
+6 Concourse Parkway, Suite 1750
+Atlanta, GA 30028
+info@analytics-iq.com
+Last Updated 3/30/2020

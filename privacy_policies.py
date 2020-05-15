@@ -37,17 +37,19 @@ def get_text_from_link(link):
     visible_texts = filter(tag_visible, texts)
     return u" ".join(t.strip() for t in visible_texts)
 
-def write_policies_to_files():
-    f = open("privacy_links.txt", "r")
+def write_policies_to_files(fileName, directoryName):
+    f = open(fileName, "r")
     for url in f.readlines():
         try:
-            company = re.findall('https://(.*).com', url)
+            company = re.findall('https://(.*).co', url)
+            print(company)
             company2 = re.findall('www.(.*)', company[0])
+            print(company2)
 
             if len(company2) > 0:
                 company = company2
 
-            fileName = 'privacy_texts/' + company[0] + '.txt'
+            fileName = directoryName + '/' + company[0] + '.txt'
             file = open(fileName,'w')
 
 
@@ -60,11 +62,12 @@ def write_policies_to_files():
             print("problem with", url)
             continue
 
-def print_exs(key_word):
-    for fileName in os.listdir('/Users/abbykrishnan/Documents/Spring 2020/Research/privacy-crawler/privacy_texts'):
+def print_exs(key_word, directoryName):
+    print(f"Examples for {key_word}")
+    for fileName in os.listdir('/Users/abbykrishnan/Documents/Spring 2020/Research/privacy-crawler/' + directoryName):
         if '.DS_Store' in fileName:
             continue
-        file = open('privacy_texts/' + fileName,'r')
+        file = open(directoryName + '/' + fileName,'r')
         data = file.read().replace('\n', '')
 
         regex = '[^.]*{term}[^.]*\.'.format(term=key_word)
@@ -72,11 +75,13 @@ def print_exs(key_word):
 
         if len(results) > 0:
             print (fileName, results)
+    print("\n")
 if __name__ == '__main__':
-    print("=== Financial Incentive ===")
-    print_exs("financial incentive")
-    print("=== Discrimination ===")
-    print_exs("discrimination")
+    # write_policies_to_files("broker_links.txt", "brokers_privacy_texts")
+
+    print_exs("financial incentive", "brokers_privacy_texts")
+    print_exs("discrimination", "brokers_privacy_texts")
+    print_exs("ssn", "brokers_privacy_texts")
 
 
 
